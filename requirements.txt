@@ -1,0 +1,6 @@
+nxviz
+fuzzywuzzy
+plotly
+networkx
+matplotlib
+auto-py-to-exe
