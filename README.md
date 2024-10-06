@@ -2,6 +2,8 @@
 
 # Visualizador de Conexiones de LinkedIn
 
+![circular_network_plot](https://github.com/user-attachments/assets/25c85e0a-4907-46a9-a297-fb80680ea0f3)
+
 Esta es una aplicación de escritorio desarrollada en Python que permite visualizar datos de conexiones de LinkedIn a partir de un archivo CSV. La aplicación genera diferentes gráficos basados en los datos de las conexiones como empresa, puesto, red de conexiones y conexiones por fecha.
 
 ## Características
