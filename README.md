@@ -56,11 +56,8 @@ Desde tu perfil de LinkedIn, ve a la sección de exportación de datos y descarg
 
 .
 ├── main.py                      # Archivo principal para ejecutar la aplicación.
-
 ├── README.md                    # Documentación de la aplicación.
-
 ├── requirements.txt             # Dependencias del proyecto.
-
 └── assets/                      # Carpeta para almacenar imágenes o gráficos generados.
 
 ## Licencia
